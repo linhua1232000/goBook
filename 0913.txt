@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 hello world
 0914zhui
+=======
+hello world
+>>>>>>> 2995fddb72e269356c1143a5d12494d833ba79d4
+
+git add readme.txt
+
+git commit -m "wrote a readme file"
