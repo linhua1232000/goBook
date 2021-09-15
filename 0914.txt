@@ -1,21 +1,22 @@
 
 创建版本库
-Reads: 1331049387
+
 什么是版本库呢？版本库又名仓库，英文名repository，你可以简单理解成一个目录
 
 创建一个版本库非常简单，首先，选择一个合适的地方，创建一个空目录：
 
-$ mkdir learngit
-$ cd learngit
+$ mkdir goBook
+$ cd goBook
 $ pwd
-/Users/michael/learngit
-pwd命令用于显示当前目录。在我的Mac上，这个仓库位于/Users/michael/learngit。
+D:\git\gobook
+pwd命令用于显示当前目录。
 
  如果你使用Windows系统，为了避免遇到各种莫名其妙的问题，请确保目录名（包括父目录）不包含中文。
+ 
 第二步，通过git init命令把这个目录变成Git可以管理的仓库：
 
 $ git init
-Initialized empty Git repository in /Users/michael/learngit/.git/
+Initialized empty Git repository in /Users/michael/goBook/.git/
 
 
 
@@ -29,6 +30,37 @@ Initialized empty Git repository in /Users/michael/learngit/.git/
 git remote add origin git@github.com:linhua1232000/goBook.git
 
 
-2、把本地库的所有内容推送到远程库上：
+2、把本地库的所有内容推送到远程库上：第一次使用带参数-u
 
 $ git push -u origin master
+
+
+#######
+
+删除远程库
+如果添加的时候地址写错了，或者就是想删除远程库，可以用git remote rm <name>命令。使用前，建议先用git remote -v查看远程库信息：
+
+$ git remote -v
+origin  git@github.com:linhua1232000/goBook.git (fetch)
+origin  git@github.com:linhua1232000/goBook.git (push)
+
+然后，根据名字删除，比如删除origin：
+
+$ git remote rm origin
+此处的“删除”其实是解除了本地和远程的绑定关系，并不是物理上删除了远程库。远程库本身并没有任何改动。
+
+#######
+总结：要关联一个远程库，使用命令git remote add origin git@github.com:linhua1232000/goBook.git；
+
+关联一个远程库时必须给远程库指定一个名字，origin是默认习惯命名；
+
+关联后，使用命令git push -u origin master第一次推送master分支的所有内容；
+
+此后，每次本地提交后，只要有必要，就可以使用命令git push origin master推送最新修改；
+
+分布式版本系统的最大好处之一是在本地工作完全不需要考虑远程库的存在，也就是有没有联网都可以正常工作，而SVN在没有联网的时候是拒绝干活的！当有网络的时候，再把本地提交推送一下就完成了同步，真是太方便了！
+
+
+添加远程库
+#######
+从远程库克隆
