@@ -63,4 +63,31 @@ $ git remote rm origin
 
 添加远程库
 #######
+时光机穿梭
+
+1修改文件后，运行git status命令看看结果：
+$ git status
+git status命令可以让我们时刻掌握仓库当前的状态。
+
+2具体修改了什么内容，需要用git diff这个命令看看：
+$ git diff 0914.txt 
+
+3提交修改和提交新文件是一样的两步。
+
+第一步是git add：
+$ git add 0914.txt
+
+第二步，就可以放心地提交了：
+
+$ git commit -m "修改说明备注"
+
+
+4要随时掌握工作区的状态，使用git status命令
+5版本回退：
+    第一步 历史记录，在Git中，我们用git log命令查看：
+	                       或git log--pretty=oneline
+	第二步 $ git reset --hard HEAD^  其中几个^回到前几个版					   
+						   
+
+#######
 从远程库克隆
