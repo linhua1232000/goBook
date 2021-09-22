@@ -86,8 +86,30 @@ $ git commit -m "修改说明备注"
 5版本回退：
     第一步 历史记录，在Git中，我们用git log命令查看：
 	                       或git log--pretty=oneline
-	第二步 $ git reset --hard HEAD^  其中几个^回到前几个版					   
-						   
+	第二步 $ git reset --hard HEAD^    其中几个 ^ 回到前几个版					   
+	完成 。
+     
+    Git提供了一个命令git reflog用来记录你的每一次命令：
+      例：
+	      $ git reflog	
+		  e475afc HEAD@{1}: reset: moving to HEAD^
+          1094adb (HEAD -> master) HEAD@{2}: commit: append GPL
+          e475afc HEAD@{3}: commit: add distributed
+          eaadf4e HEAD@{4}: commit (initial): wrote a readme file
+		  
+	小结
+现在总结一下：
 
+HEAD指向的版本就是当前版本，因此，Git允许我们在版本的历史之间穿梭，使用命令git reset --hard commit_id。
+
+穿梭前，用git log可以查看提交历史，以便确定要回退到哪个版本。
+
+要重返未来，用git reflog查看命令历史，以便确定要回到未来的哪个版本。	
+
+
+工作区和暂存区   
+
+书签		  
+     
 #######
 从远程库克隆
