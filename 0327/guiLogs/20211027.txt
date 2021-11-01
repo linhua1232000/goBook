@@ -1,0 +1,620 @@
+--------------------------------info[10:28:27]--------------------------------
+System.Exception: v2rayN start up v2rayN - V3.27 - 2020/10/24
+
+ 
+--------------------------------info[10:28:29]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[10:28:43]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[10:28:43]--------------------------------
+System.Exception: Webserver prefixes http://*:10810/pac/
+
+ 
+--------------------------------info[10:28:43]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[10:28:43]--------------------------------
+System.Exception: Webserver running...
+
+ 
+--------------------------------info[10:28:44]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[10:28:44]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[10:28:50]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[10:28:50]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[10:28:50]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[10:29:03]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[10:29:03]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[10:29:03]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[10:29:03]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[10:29:03]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[10:29:03]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[10:29:03]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[10:29:03]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[10:29:07]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[10:29:19]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[10:29:44]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[10:29:56]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[10:30:08]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------info[10:31:10]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[10:31:11]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[10:31:11]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[10:31:11]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[10:31:11]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[10:31:11]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[10:31:11]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[10:31:11]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[10:31:12]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[10:31:12]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[10:31:12]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[10:31:12]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[10:31:44]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------info[10:32:11]--------------------------------
+System.Exception: v2rayN start up v2rayN - V3.27 - 2020/10/24
+
+ 
+--------------------------------info[10:32:13]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[10:32:13]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[10:32:13]--------------------------------
+System.Exception: Webserver prefixes http://*:10810/pac/
+
+ 
+--------------------------------info[10:32:13]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[10:32:13]--------------------------------
+System.Exception: Webserver running...
+
+ 
+--------------------------------info[10:32:14]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[10:32:14]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[10:32:42]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[10:32:43]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------info[10:32:46]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[10:32:46]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[10:32:46]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[10:32:46]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[10:33:10]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[10:33:19]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[10:35:19]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------info[10:39:46]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[10:41:27]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[10:41:28]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。[10:41:28]--------------------------------
+System.ComponentModel.Win32Exception (0x80004005): 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。
+   在 System.Diagnostics.NtProcessManager.GetModuleInfos(Int32 processId, Boolean firstModuleOnly)
+   在 System.Diagnostics.NtProcessManager.GetFirstModuleInfo(Int32 processId)
+   在 System.Diagnostics.Process.get_MainModule()
+   在 v2rayN.HttpProxyHandler.PrivoxyHandler.IsChildProcess(Process process)
+
+ 
+--------------------------------info[10:41:28]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[10:41:28]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[10:43:20]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[10:43:20]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[10:43:20]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[10:43:20]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[10:44:57]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[10:44:58]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[10:45:16]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[10:45:17]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[10:45:44]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[10:45:44]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[10:45:44]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[10:46:11]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[10:46:11]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[10:46:11]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[10:46:11]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[10:48:12]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[11:05:31]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[11:05:31]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[11:11:21]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[11:11:21]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[11:11:21]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[11:11:21]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[11:13:14]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[11:15:37]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[11:15:50]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[11:15:52]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------由于线程退出或应用程序请求，已中止 I/O 操作。[11:19:33]--------------------------------
+System.Net.HttpListenerException (0x80004005): 由于线程退出或应用程序请求，已中止 I/O 操作。
+   在 System.Net.HttpListener.GetContext()
+   在 v2rayN.Base.HttpWebServer.<Run>b__4_0(Object o)
+
+ 
+--------------------------------info[14:43:03]--------------------------------
+System.Exception: v2rayN start up v2rayN - V3.27 - 2020/10/24
+
+ 
+--------------------------------info[14:43:05]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[14:43:05]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[14:43:05]--------------------------------
+System.Exception: Webserver prefixes http://*:10810/pac/
+
+ 
+--------------------------------info[14:43:05]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[14:43:05]--------------------------------
+System.Exception: Webserver running...
+
+ 
+--------------------------------info[14:43:06]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:43:06]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:43:06]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:43:31]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------由于线程退出或应用程序请求，已中止 I/O 操作。[14:56:09]--------------------------------
+System.Net.HttpListenerException (0x80004005): 由于线程退出或应用程序请求，已中止 I/O 操作。
+   在 System.Net.HttpListener.GetContext()
+   在 v2rayN.Base.HttpWebServer.<Run>b__4_0(Object o)
+
+ 
+--------------------------------info[15:04:22]--------------------------------
+System.Exception: v2rayN start up v2rayN - V3.27 - 2020/10/24
+
+ 
+--------------------------------info[15:04:23]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[15:04:23]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[15:04:23]--------------------------------
+System.Exception: Webserver prefixes http://*:10810/pac/
+
+ 
+--------------------------------info[15:04:23]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[15:04:23]--------------------------------
+System.Exception: Webserver running...
+
+ 
+--------------------------------info[15:04:24]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[15:04:24]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[15:04:24]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[15:05:31]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[15:05:31]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[15:07:44]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[15:08:07]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[15:08:34]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[15:08:39]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[15:08:39]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[15:08:40]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[15:08:40]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[15:08:42]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[15:08:42]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[15:27:58]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[15:55:50]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[15:55:53]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[16:05:33]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[16:05:33]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[16:07:47]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[16:07:48]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[16:08:48]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[16:17:56]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[16:19:01]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[16:21:21]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[16:21:21]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[16:21:22]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[16:21:22]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[16:21:22]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[16:21:22]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[16:23:12]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[16:24:08]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[16:34:02]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[16:48:12]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[17:09:18]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[17:09:25]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[17:09:50]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[17:11:05]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[17:11:05]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[17:11:05]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[17:11:05]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[17:27:03]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[17:27:03]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[17:28:03]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[17:28:09]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[17:42:03]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[17:49:42]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 

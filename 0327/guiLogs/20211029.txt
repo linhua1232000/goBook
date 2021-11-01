@@ -1,0 +1,1237 @@
+--------------------------------info[08:31:50]--------------------------------
+System.Exception: v2rayN start up v2rayN - V3.27 - 2020/10/24
+
+ 
+--------------------------------info[08:31:53]--------------------------------
+System.Exception: Webserver prefixes http://*:10810/pac/
+
+ 
+--------------------------------info[08:31:53]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[08:31:53]--------------------------------
+System.Exception: Webserver running...
+
+ 
+--------------------------------info[08:31:54]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[08:31:54]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[08:31:56]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[08:32:50]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[08:32:51]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[08:33:04]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------info[08:33:06]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[08:33:18]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[08:33:27]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[08:33:41]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[08:33:51]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[08:34:05]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[08:34:15]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------info[08:34:27]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[08:34:28]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[08:34:38]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------info[08:34:42]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[08:34:53]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[08:35:09]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[08:35:19]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[08:35:27]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------info[08:35:34]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[08:35:50]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------info[08:35:53]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[08:36:15]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[08:36:54]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------info[08:39:13]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[08:39:31]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[08:39:31]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[08:39:31]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[08:39:31]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[08:39:52]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------info[08:39:57]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[08:40:08]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[08:40:39]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------info[08:40:59]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[08:40:59]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[08:40:59]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[08:40:59]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[08:41:42]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------由于线程退出或应用程序请求，已中止 I/O 操作。[08:42:03]--------------------------------
+System.Net.HttpListenerException (0x80004005): 由于线程退出或应用程序请求，已中止 I/O 操作。
+   在 System.Net.HttpListener.GetContext()
+   在 v2rayN.Base.HttpWebServer.<Run>b__4_0(Object o)
+
+ 
+--------------------------------info[08:56:09]--------------------------------
+System.Exception: v2rayN start up v2rayN - V3.27 - 2020/10/24
+
+ 
+--------------------------------info[08:56:11]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[08:56:11]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[08:56:11]--------------------------------
+System.Exception: Webserver prefixes http://*:10810/pac/
+
+ 
+--------------------------------info[08:56:11]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[08:56:11]--------------------------------
+System.Exception: Webserver running...
+
+ 
+--------------------------------info[08:56:12]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[08:56:12]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[08:56:12]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[09:00:06]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------由于线程退出或应用程序请求，已中止 I/O 操作。[09:11:32]--------------------------------
+System.Net.HttpListenerException (0x80004005): 由于线程退出或应用程序请求，已中止 I/O 操作。
+   在 System.Net.HttpListener.GetContext()
+   在 v2rayN.Base.HttpWebServer.<Run>b__4_0(Object o)
+
+ 
+--------------------------------info[11:38:44]--------------------------------
+System.Exception: v2rayN start up v2rayN - V3.27 - 2020/10/24
+
+ 
+--------------------------------info[11:38:45]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[11:38:45]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[11:38:45]--------------------------------
+System.Exception: Webserver prefixes http://*:10810/pac/
+
+ 
+--------------------------------info[11:38:45]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[11:38:45]--------------------------------
+System.Exception: Webserver running...
+
+ 
+--------------------------------info[11:38:46]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[11:38:46]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[11:38:52]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------[11:39:04]--------------------------------
+System.Exception
+   在 v2rayN.Handler.V2rayHandler.V2rayStartNew(String configStr)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[11:42:05]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[11:42:29]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[11:43:22]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[11:53:32]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------info[12:05:31]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[12:05:31]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[12:05:34]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[12:05:34]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------[12:18:16]--------------------------------
+System.Exception
+   在 v2rayN.Handler.V2rayHandler.V2rayStartNew(String configStr)
+
+ 
+--------------------------------info[12:19:16]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[12:19:16]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[12:19:16]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[12:19:16]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[12:21:08]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[12:21:16]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[12:21:16]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[12:21:16]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[12:21:32]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[12:21:32]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[12:21:32]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[12:21:32]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[12:21:40]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[12:21:40]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[12:21:40]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[12:21:40]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[12:21:52]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[12:21:52]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[12:21:52]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[12:21:52]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[12:22:01]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[12:22:01]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[12:22:01]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[12:22:01]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[12:22:18]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[12:22:18]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[12:22:18]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[12:22:42]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------info[12:22:49]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[12:22:49]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[12:22:49]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[12:24:15]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[12:32:44]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[12:35:02]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------info[12:39:27]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[12:43:24]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[12:47:17]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[12:51:02]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------[12:51:33]--------------------------------
+System.Exception
+   在 v2rayN.Handler.V2rayHandler.V2rayStartNew(String configStr)
+
+ 
+--------------------------------无法连接到远程服务器[12:54:46]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11021
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[12:54:58]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11022
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[12:55:10]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11023
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[12:55:22]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11024
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[12:55:34]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11025
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[12:55:46]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11026
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[12:55:58]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11027
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[12:56:10]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11028
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[12:56:22]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11029
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[12:56:34]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11030
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[12:56:46]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11031
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[12:56:58]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11032
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[12:57:10]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11033
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[12:57:22]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11034
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[12:57:34]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11035
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------info[12:57:40]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[12:57:40]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[12:57:41]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[12:57:41]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。[12:57:41]--------------------------------
+System.ComponentModel.Win32Exception (0x80004005): 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。
+   在 System.Diagnostics.NtProcessManager.GetModuleInfos(Int32 processId, Boolean firstModuleOnly)
+   在 System.Diagnostics.NtProcessManager.GetFirstModuleInfo(Int32 processId)
+   在 System.Diagnostics.Process.get_MainModule()
+   在 v2rayN.HttpProxyHandler.PrivoxyHandler.IsChildProcess(Process process)
+
+ 
+--------------------------------info[12:57:41]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[12:57:41]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[12:57:41]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[12:57:41]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------无法连接到远程服务器[12:57:46]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11036
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[12:57:58]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11037
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[12:58:10]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11038
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[12:58:22]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11039
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[12:58:34]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11040
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[12:58:46]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11041
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[12:58:58]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11042
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[12:59:10]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11043
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[12:59:22]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11044
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[12:59:34]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11045
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[12:59:46]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11046
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[12:59:58]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11047
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[13:00:10]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11048
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[13:00:22]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11049
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[13:00:34]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11050
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[13:00:46]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11051
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[13:00:58]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11052
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[13:01:10]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11053
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[13:01:22]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11054
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[13:01:34]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11055
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[13:01:46]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11056
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[13:01:58]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11057
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[13:02:10]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11058
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[13:02:22]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11059
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[13:02:34]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11060
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[13:02:46]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11061
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[13:02:58]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11062
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[13:03:10]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11063
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[13:03:22]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11064
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[13:03:34]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11065
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------info[13:05:30]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[13:05:31]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[13:05:32]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[13:05:32]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[13:05:32]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[13:05:32]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[13:05:32]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[13:05:32]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[13:05:33]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[13:05:33]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[13:47:11]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:30:05]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[14:30:06]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:30:06]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[14:30:06]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:30:12]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[14:30:12]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:30:12]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[14:30:12]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:30:17]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[14:30:17]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:30:17]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:30:17]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------[14:30:39]--------------------------------
+System.Exception
+   在 v2rayN.Handler.V2rayHandler.V2rayStartNew(String configStr)
+
+ 
+--------------------------------info[14:32:25]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[14:32:25]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:32:25]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:32:25]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[14:32:34]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[14:32:34]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:32:34]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:32:34]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[14:32:34]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[14:32:34]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:32:34]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:32:34]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[14:33:24]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[14:33:24]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:33:24]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:33:24]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[14:33:59]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[14:33:59]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:33:59]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[14:34:56]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[14:34:56]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:34:56]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[14:34:56]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[14:35:07]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------info[14:37:40]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[14:37:40]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:37:40]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:37:40]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[14:38:04]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[14:38:04]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:38:04]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:38:04]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[14:39:42]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[14:39:42]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:39:42]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[14:39:42]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:39:42]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[14:39:42]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:39:42]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[14:39:42]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[14:41:56]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[14:42:42]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11021
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[14:42:54]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11022
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[14:43:06]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11023
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------无法连接到远程服务器[14:43:18]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:11024
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------由于线程退出或应用程序请求，已中止 I/O 操作。[14:43:26]--------------------------------
+System.Net.HttpListenerException (0x80004005): 由于线程退出或应用程序请求，已中止 I/O 操作。
+   在 System.Net.HttpListener.GetContext()
+   在 v2rayN.Base.HttpWebServer.<Run>b__4_0(Object o)
+
+ 

@@ -1,0 +1,249 @@
+--------------------------------info[14:46:18]--------------------------------
+System.Exception: v2rayN start up v2rayN - V3.27 - 2020/10/24
+
+ 
+--------------------------------info[14:46:19]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[14:46:19]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[14:46:19]--------------------------------
+System.Exception: Webserver prefixes http://*:10810/pac/
+
+ 
+--------------------------------info[14:46:20]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[14:46:20]--------------------------------
+System.Exception: Webserver running...
+
+ 
+--------------------------------info[14:46:35]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:46:42]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[14:46:47]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:46:47]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[14:47:31]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------info[14:47:41]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:47:48]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[14:48:07]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------info[14:48:18]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[14:48:18]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:48:18]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[14:48:18]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。[14:48:18]--------------------------------
+System.ComponentModel.Win32Exception (0x80004005): 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。
+   在 System.Diagnostics.NtProcessManager.GetModuleInfos(Int32 processId, Boolean firstModuleOnly)
+   在 System.Diagnostics.NtProcessManager.GetFirstModuleInfo(Int32 processId)
+   在 System.Diagnostics.Process.get_MainModule()
+   在 v2rayN.HttpProxyHandler.PrivoxyHandler.IsChildProcess(Process process)
+
+ 
+--------------------------------info[14:48:18]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[14:48:18]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:48:18]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[14:48:18]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:48:27]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[14:48:52]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[14:48:55]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------info[14:49:22]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:49:22]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:49:22]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[14:49:31]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------info[14:49:31]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:49:31]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[14:49:31]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[14:49:32]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[14:49:56]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[14:50:08]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[14:50:32]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[14:50:55]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------info[14:51:06]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[14:51:08]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[14:52:07]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[14:52:32]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[14:52:56]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[14:53:08]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[14:54:08]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[14:55:32]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[14:56:43]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[14:58:32]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[14:58:44]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[14:58:56]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[14:59:11]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[14:59:32]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[15:05:32]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[15:08:23]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[15:14:18]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
