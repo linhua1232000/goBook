@@ -48,7 +48,7 @@
     },
     {
       "tag": "api",
-      "port": 50660,
+      "port": 60591,
       "listen": "127.0.0.1",
       "protocol": "dokodemo-door",
       "settings": {
@@ -61,40 +61,25 @@
   "outbounds": [
     {
       "tag": "proxy",
-      "protocol": "vmess",
+      "protocol": "shadowsocks",
       "settings": {
-        "vnext": [
+        "servers": [
           {
-            "address": "104.26.9.74",
-            "port": 443,
-            "users": [
-              {
-                "id": "f6c1babe-416e-47d1-8726-049678e25c7a",
-                "alterId": 64,
-                "email": "t@t.tt",
-                "security": "auto"
-              }
-            ]
+            "address": "134.195.196.199",
+            "method": "aes-256-gcm",
+            "ota": false,
+            "password": "g5MeD6Ft3CWlJId",
+            "port": 5004,
+            "level": 1
           }
         ]
       },
       "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "tlsSettings": {
-          "allowInsecure": false,
-          "serverName": "us2.v2rayserv.com"
-        },
-        "wsSettings": {
-          "path": "/sshocean",
-          "headers": {
-            "Host": "us2.v2rayserv.com"
-          }
-        }
+        "network": "tcp"
       },
       "mux": {
-        "enabled": true,
-        "concurrency": 8
+        "enabled": false,
+        "concurrency": -1
       }
     },
     {
@@ -128,24 +113,21 @@
         "inboundTag": [
           "api"
         ],
-        "outboundTag": "api",
-        "enabled": true
+        "outboundTag": "api"
       },
       {
         "type": "field",
         "outboundTag": "direct",
         "protocol": [
           "bittorrent"
-        ],
-        "enabled": true
+        ]
       },
       {
         "type": "field",
         "outboundTag": "block",
         "domain": [
           "geosite:category-ads-all"
-        ],
-        "enabled": true
+        ]
       },
       {
         "type": "field",
@@ -154,22 +136,19 @@
           "geosite:gfw",
           "geosite:greatfire",
           "geosite:tld-!cn"
-        ],
-        "enabled": true
+        ]
       },
       {
         "type": "field",
         "outboundTag": "proxy",
         "ip": [
           "geoip:telegram"
-        ],
-        "enabled": true
+        ]
       },
       {
         "type": "field",
         "port": "0-65535",
-        "outboundTag": "direct",
-        "enabled": true
+        "outboundTag": "direct"
       }
     ]
   }

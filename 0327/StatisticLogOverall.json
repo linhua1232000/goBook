@@ -6,7 +6,7 @@
       "totalDown": 2091715,
       "todayUp": 0,
       "todayDown": 0,
-      "dateNow": 637713216000000000
+      "dateNow": 637714080000000000
     },
     {
       "itemId": "dXNnaWEuamp5dW4ucmVuODgvamp5dW4=",
@@ -14,7 +14,7 @@
       "totalDown": 93901945,
       "todayUp": 0,
       "todayDown": 0,
-      "dateNow": 637713216000000000
+      "dateNow": 637714080000000000
     },
     {
       "itemId": "MTY3Ljg4LjYzLjg5ODA5MQ==",
@@ -22,7 +22,7 @@
       "totalDown": 240073322,
       "todayUp": 0,
       "todayDown": 0,
-      "dateNow": 637713216000000000
+      "dateNow": 637714080000000000
     },
     {
       "itemId": "MTA0LjE2LjE2Ni4yNDQ0NDN2aW5jZW50LWphY2tzb24yMDIxLmdhL1RoZS1HcmVhdC1Bd2FrZW5pbmdfdndz",
@@ -30,7 +30,7 @@
       "totalDown": 1139749,
       "todayUp": 0,
       "todayDown": 0,
-      "dateNow": 637713216000000000
+      "dateNow": 637714080000000000
     },
     {
       "itemId": "MjAuMTk2LjIwMy4yMjU4MC8=",
@@ -38,7 +38,7 @@
       "totalDown": 840,
       "todayUp": 0,
       "todayDown": 0,
-      "dateNow": 637713216000000000
+      "dateNow": 637714080000000000
     },
     {
       "itemId": "MS50cmFuc2l0Lm5waC5xam5vZGVpcC54eXozMDAwNy8=",
@@ -46,7 +46,7 @@
       "totalDown": 96,
       "todayUp": 0,
       "todayDown": 0,
-      "dateNow": 637713216000000000
+      "dateNow": 637714080000000000
     },
     {
       "itemId": "dXMyLmZ1dGkub25saW5lNDQzdXMyLmZ1dGkub25saW5lLw==",
@@ -54,7 +54,7 @@
       "totalDown": 24,
       "todayUp": 0,
       "todayDown": 0,
-      "dateNow": 637713216000000000
+      "dateNow": 637714080000000000
     },
     {
       "itemId": "NDYuMTAxLjI4Ljk4MTIyMjJ0Lm1lL3ZwbmhhdC8=",
@@ -62,7 +62,7 @@
       "totalDown": 1537970880,
       "todayUp": 0,
       "todayDown": 0,
-      "dateNow": 637713216000000000
+      "dateNow": 637714080000000000
     },
     {
       "itemId": "MTM0LjE5NS4xOTYuMTEwNzMwNw==",
@@ -70,7 +70,7 @@
       "totalDown": 456,
       "todayUp": 0,
       "todayDown": 0,
-      "dateNow": 637713216000000000
+      "dateNow": 637714080000000000
     },
     {
       "itemId": "MTM0LjE5NS4xOTYuMTEwODA5MQ==",
@@ -78,7 +78,7 @@
       "totalDown": 96,
       "todayUp": 0,
       "todayDown": 0,
-      "dateNow": 637713216000000000
+      "dateNow": 637714080000000000
     },
     {
       "itemId": "MTk4LjU3LjI3LjI0MzczMDY=",
@@ -86,7 +86,7 @@
       "totalDown": 24,
       "todayUp": 0,
       "todayDown": 0,
-      "dateNow": 637713216000000000
+      "dateNow": 637714080000000000
     },
     {
       "itemId": "ODYuMTA2LjEzNi45MzMzOTky",
@@ -94,7 +94,7 @@
       "totalDown": 36,
       "todayUp": 0,
       "todayDown": 0,
-      "dateNow": 637713216000000000
+      "dateNow": 637714080000000000
     },
     {
       "itemId": "a3IuNTJqanl1bi50b3A4OC9qanl1bg==",
@@ -102,7 +102,7 @@
       "totalDown": 168,
       "todayUp": 0,
       "todayDown": 0,
-      "dateNow": 637713216000000000
+      "dateNow": 637714080000000000
     },
     {
       "itemId": "Y3liZXJwdW5rMjA3N2ZyZWVkb3dubG9hZC5oZXJva3VhcHAuY29tNDQzLw==",
@@ -110,15 +110,23 @@
       "totalDown": 24,
       "todayUp": 0,
       "todayDown": 0,
-      "dateNow": 637713216000000000
+      "dateNow": 637714080000000000
     },
     {
       "itemId": "dDMuc3Nyc3ViLmNvbTg0NDM=",
       "totalUp": 431019,
       "totalDown": 9718034,
-      "todayUp": 66001,
-      "todayDown": 1452,
-      "dateNow": 637713216000000000
+      "todayUp": 0,
+      "todayDown": 0,
+      "dateNow": 637714080000000000
+    },
+    {
+      "itemId": "dWt3eC41MmpqeXVuLnRvcDgwL2pqeXVu",
+      "totalUp": 9748,
+      "totalDown": 216,
+      "todayUp": 9748,
+      "todayDown": 216,
+      "dateNow": 637714080000000000
     }
   ]
 }

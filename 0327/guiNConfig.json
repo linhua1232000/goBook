@@ -3065,7 +3065,7 @@
     "readBufferSize": 2,
     "writeBufferSize": 2
   },
-  "listenerType": 1,
+  "listenerType": 2,
   "speedTestUrl": "http://cachefly.cachefly.net/10mb.test",
   "speedPingTestUrl": "https://www.google.com/generate_204",
   "urlGFWList": "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt",
