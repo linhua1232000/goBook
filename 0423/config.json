@@ -48,7 +48,7 @@
     },
     {
       "tag": "api",
-      "port": 60591,
+      "port": 52100,
       "listen": "127.0.0.1",
       "protocol": "dokodemo-door",
       "settings": {
@@ -61,21 +61,36 @@
   "outbounds": [
     {
       "tag": "proxy",
-      "protocol": "shadowsocks",
+      "protocol": "vmess",
       "settings": {
-        "servers": [
+        "vnext": [
           {
-            "address": "134.195.196.199",
-            "method": "aes-256-gcm",
-            "ota": false,
-            "password": "g5MeD6Ft3CWlJId",
-            "port": 5004,
-            "level": 1
+            "address": "104.16.166.244",
+            "port": 443,
+            "users": [
+              {
+                "id": "4d88f6a2-aaa9-42b6-afc4-227f89974119",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto"
+              }
+            ]
           }
         ]
       },
       "streamSettings": {
-        "network": "tcp"
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "vincent-jackson2021.ga"
+        },
+        "wsSettings": {
+          "path": "/The-Great-Awakening_vws",
+          "headers": {
+            "Host": "vincent-jackson2021.ga"
+          }
+        }
       },
       "mux": {
         "enabled": false,
