@@ -48,7 +48,7 @@
     },
     {
       "tag": "api",
-      "port": 52100,
+      "port": 49340,
       "listen": "127.0.0.1",
       "protocol": "dokodemo-door",
       "settings": {
@@ -65,12 +65,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.16.166.244",
+            "address": "powerservice.com",
             "port": 443,
             "users": [
               {
-                "id": "4d88f6a2-aaa9-42b6-afc4-227f89974119",
-                "alterId": 0,
+                "id": "0764a598-82c4-4b41-ba10-551a625beed5",
+                "alterId": 64,
                 "email": "t@t.tt",
                 "security": "auto"
               }
@@ -83,12 +83,12 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "vincent-jackson2021.ga"
+          "serverName": "uk2.v2rayserv.com"
         },
         "wsSettings": {
-          "path": "/The-Great-Awakening_vws",
+          "path": "/sshocean",
           "headers": {
-            "Host": "vincent-jackson2021.ga"
+            "Host": "uk2.v2rayserv.com"
           }
         }
       },
