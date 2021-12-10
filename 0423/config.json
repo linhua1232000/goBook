@@ -48,7 +48,7 @@
     },
     {
       "tag": "api",
-      "port": 49340,
+      "port": 49264,
       "listen": "127.0.0.1",
       "protocol": "dokodemo-door",
       "settings": {
@@ -65,12 +65,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "powerservice.com",
-            "port": 443,
+            "address": "104.25.64.142",
+            "port": 80,
             "users": [
               {
-                "id": "0764a598-82c4-4b41-ba10-551a625beed5",
-                "alterId": 64,
+                "id": "44e0d410-535a-11ec-968f-02001700aa14",
+                "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto"
               }
@@ -80,15 +80,9 @@
       },
       "streamSettings": {
         "network": "ws",
-        "security": "tls",
-        "tlsSettings": {
-          "allowInsecure": false,
-          "serverName": "uk2.v2rayserv.com"
-        },
         "wsSettings": {
-          "path": "/sshocean",
           "headers": {
-            "Host": "uk2.v2rayserv.com"
+            "Host": "armsj2.jbdd1123.workers.dev"
           }
         }
       },
