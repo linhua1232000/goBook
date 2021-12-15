@@ -48,7 +48,7 @@
     },
     {
       "tag": "api",
-      "port": 49264,
+      "port": 49282,
       "listen": "127.0.0.1",
       "protocol": "dokodemo-door",
       "settings": {
@@ -65,14 +65,14 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.25.64.142",
-            "port": 80,
+            "address": "192.186.129.66",
+            "port": 443,
             "users": [
               {
-                "id": "44e0d410-535a-11ec-968f-02001700aa14",
-                "alterId": 0,
+                "id": "aba50dd4-5484-3b05-b14a-4661caf862d5",
+                "alterId": 4,
                 "email": "t@t.tt",
-                "security": "auto"
+                "security": "aes-128-gcm"
               }
             ]
           }
@@ -80,9 +80,15 @@
       },
       "streamSettings": {
         "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "usa-buffalo.lvuft.com"
+        },
         "wsSettings": {
+          "path": "/ws",
           "headers": {
-            "Host": "armsj2.jbdd1123.workers.dev"
+            "Host": "usa-buffalo.lvuft.com"
           }
         }
       },
