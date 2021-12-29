@@ -14,7 +14,7 @@
     {
       "tag": "socks",
       "port": 10808,
-      "listen": "127.0.0.1",
+      "listen": "0.0.0.0",
       "protocol": "socks",
       "sniffing": {
         "enabled": true,
@@ -32,7 +32,7 @@
     {
       "tag": "http",
       "port": 10809,
-      "listen": "127.0.0.1",
+      "listen": "0.0.0.0",
       "protocol": "http",
       "sniffing": {
         "enabled": true,
@@ -48,7 +48,7 @@
     },
     {
       "tag": "api",
-      "port": 49282,
+      "port": 49197,
       "listen": "127.0.0.1",
       "protocol": "dokodemo-door",
       "settings": {
@@ -72,7 +72,7 @@
                 "id": "aba50dd4-5484-3b05-b14a-4661caf862d5",
                 "alterId": 4,
                 "email": "t@t.tt",
-                "security": "aes-128-gcm"
+                "security": "auto"
               }
             ]
           }
@@ -133,8 +133,9 @@
       {
         "type": "field",
         "outboundTag": "direct",
-        "protocol": [
-          "bittorrent"
+        "domain": [
+          "domain:example-example.com",
+          "domain:example-example2.com"
         ]
       },
       {
@@ -146,24 +147,23 @@
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "outboundTag": "direct",
         "domain": [
-          "geosite:gfw",
-          "geosite:greatfire",
-          "geosite:tld-!cn"
+          "geosite:cn"
         ]
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "outboundTag": "direct",
         "ip": [
-          "geoip:telegram"
+          "geoip:private",
+          "geoip:cn"
         ]
       },
       {
         "type": "field",
         "port": "0-65535",
-        "outboundTag": "direct"
+        "outboundTag": "proxy"
       }
     ]
   }
