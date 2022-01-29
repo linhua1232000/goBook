@@ -48,7 +48,7 @@
     },
     {
       "tag": "api",
-      "port": 49197,
+      "port": 52410,
       "listen": "127.0.0.1",
       "protocol": "dokodemo-door",
       "settings": {
@@ -61,35 +61,25 @@
   "outbounds": [
     {
       "tag": "proxy",
-      "protocol": "vmess",
+      "protocol": "trojan",
       "settings": {
-        "vnext": [
+        "servers": [
           {
-            "address": "192.186.129.66",
+            "address": "azhk.pluscloud.top",
+            "method": "chacha20",
+            "ota": false,
+            "password": "b231bb88-b550-4a6d-b36e-41a3d5b50419",
             "port": 443,
-            "users": [
-              {
-                "id": "aba50dd4-5484-3b05-b14a-4661caf862d5",
-                "alterId": 4,
-                "email": "t@t.tt",
-                "security": "auto"
-              }
-            ]
+            "level": 1
           }
         ]
       },
       "streamSettings": {
-        "network": "ws",
+        "network": "tcp",
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "usa-buffalo.lvuft.com"
-        },
-        "wsSettings": {
-          "path": "/ws",
-          "headers": {
-            "Host": "usa-buffalo.lvuft.com"
-          }
+          "serverName": "azhk.pluscloud.top"
         }
       },
       "mux": {
@@ -133,9 +123,8 @@
       {
         "type": "field",
         "outboundTag": "direct",
-        "domain": [
-          "domain:example-example.com",
-          "domain:example-example2.com"
+        "protocol": [
+          "bittorrent"
         ]
       },
       {
@@ -147,23 +136,24 @@
       },
       {
         "type": "field",
-        "outboundTag": "direct",
+        "outboundTag": "proxy",
         "domain": [
-          "geosite:cn"
+          "geosite:gfw",
+          "geosite:greatfire",
+          "geosite:tld-!cn"
         ]
       },
       {
         "type": "field",
-        "outboundTag": "direct",
+        "outboundTag": "proxy",
         "ip": [
-          "geoip:private",
-          "geoip:cn"
+          "geoip:telegram"
         ]
       },
       {
         "type": "field",
         "port": "0-65535",
-        "outboundTag": "proxy"
+        "outboundTag": "direct"
       }
     ]
   }
