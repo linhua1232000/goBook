@@ -1,0 +1,238 @@
+--------------------------------info[11:57:04]--------------------------------
+System.Exception: v2rayN start up v2rayN - V4.20 - 2021/12/13
+
+ 
+--------------------------------info[11:58:57]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------Error setting options: 87 参数错误。
+
+
+[11:59:01]--------------------------------
+System.Exception: Error setting options: 87 参数错误。
+
+
+
+   在 v2rayN.HttpProxyHandler.SysProxyHandle.ExecSysproxy(String arguments)
+   在 v2rayN.HttpProxyHandler.HttpProxyHandle.UpdateSysProxy(Config config, Boolean forceDisable)
+
+ 
+--------------------------------Base64Decode[12:03:26]--------------------------------
+System.FormatException: 输入的不是有效的 Base-64 字符串，因为它包含非 Base-64 字符、两个以上的填充字符，或者填充字符间包含非空白字符。
+   在 System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   在 System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   在 System.Convert.FromBase64String(String s)
+   在 v2rayN.Utils.Base64Decode(String plainText)
+
+ 
+--------------------------------info[15:14:33]--------------------------------
+System.Exception: Failed to call AssignProcessToJobObject! GetLastError=5
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[15:14:46]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[15:14:58]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[15:15:21]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[15:15:34]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[15:15:46]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[15:15:58]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (400) 错误的请求。[15:16:11]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (400) 错误的请求。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[15:16:40]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------Base64Decode[15:16:42]--------------------------------
+System.FormatException: 输入的不是有效的 Base-64 字符串，因为它包含非 Base-64 字符、两个以上的填充字符，或者填充字符间包含非空白字符。
+   在 System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   在 System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   在 System.Convert.FromBase64String(String s)
+   在 v2rayN.Utils.Base64Decode(String plainText)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[15:16:46]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[15:17:05]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[15:17:14]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[15:17:35]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------Error setting options: 87 参数错误。
+
+
+[15:17:56]--------------------------------
+System.Exception: Error setting options: 87 参数错误。
+
+
+
+   在 v2rayN.HttpProxyHandler.SysProxyHandle.ExecSysproxy(String arguments)
+   在 v2rayN.HttpProxyHandler.HttpProxyHandle.UpdateSysProxy(Config config, Boolean forceDisable)
+
+ 
+--------------------------------进程已退出，因此无法获得所请求的信息。[15:18:02]--------------------------------
+System.InvalidOperationException: 进程已退出，因此无法获得所请求的信息。
+   在 System.Diagnostics.Process.EnsureState(State state)
+   在 System.Diagnostics.Process.get_MainWindowHandle()
+   在 System.Diagnostics.Process.CloseMainWindow()
+   在 v2rayN.Handler.V2rayHandler.KillProcess(Process p)
+
+ 
+--------------------------------2022/02/16 15:18:02 Using default config:  D:\git\gobook\0423\config.json
+[15:18:03]--------------------------------
+System.Exception: 2022/02/16 15:18:02 Using default config:  D:\git\gobook\0423\config.json
+
+   在 v2rayN.Handler.V2rayHandler.V2rayStart()
+
+ 
+--------------------------------Error setting options: 87 参数错误。
+
+
+[15:18:03]--------------------------------
+System.Exception: Error setting options: 87 参数错误。
+
+
+
+   在 v2rayN.HttpProxyHandler.SysProxyHandle.ExecSysproxy(String arguments)
+   在 v2rayN.HttpProxyHandler.HttpProxyHandle.UpdateSysProxy(Config config, Boolean forceDisable)
+
+ 
+--------------------------------Error setting options: 87 参数错误。
+
+
+[15:19:02]--------------------------------
+System.Exception: Error setting options: 87 参数错误。
+
+
+
+   在 v2rayN.HttpProxyHandler.SysProxyHandle.ExecSysproxy(String arguments)
+   在 v2rayN.HttpProxyHandler.HttpProxyHandle.UpdateSysProxy(Config config, Boolean forceDisable)
+
+ 
+--------------------------------进程已退出，因此无法获得所请求的信息。[15:19:18]--------------------------------
+System.InvalidOperationException: 进程已退出，因此无法获得所请求的信息。
+   在 System.Diagnostics.Process.EnsureState(State state)
+   在 System.Diagnostics.Process.get_MainWindowHandle()
+   在 System.Diagnostics.Process.CloseMainWindow()
+   在 v2rayN.Handler.V2rayHandler.KillProcess(Process p)
+
+ 
+--------------------------------2022/02/16 15:19:18 Using default config:  D:\git\gobook\0423\config.json
+[15:19:18]--------------------------------
+System.Exception: 2022/02/16 15:19:18 Using default config:  D:\git\gobook\0423\config.json
+
+   在 v2rayN.Handler.V2rayHandler.V2rayStart()
+
+ 
+--------------------------------Error setting options: 87 参数错误。
+
+
+[15:19:18]--------------------------------
+System.Exception: Error setting options: 87 参数错误。
+
+
+
+   在 v2rayN.HttpProxyHandler.SysProxyHandle.ExecSysproxy(String arguments)
+   在 v2rayN.HttpProxyHandler.HttpProxyHandle.UpdateSysProxy(Config config, Boolean forceDisable)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[15:19:53]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------进程已退出，因此无法获得所请求的信息。[15:19:57]--------------------------------
+System.InvalidOperationException: 进程已退出，因此无法获得所请求的信息。
+   在 System.Diagnostics.Process.EnsureState(State state)
+   在 System.Diagnostics.Process.get_MainWindowHandle()
+   在 System.Diagnostics.Process.CloseMainWindow()
+   在 v2rayN.Handler.V2rayHandler.KillProcess(Process p)
+
+ 
+--------------------------------2022/02/16 15:19:58 Using default config:  D:\git\gobook\0423\config.json
+[15:19:58]--------------------------------
+System.Exception: 2022/02/16 15:19:58 Using default config:  D:\git\gobook\0423\config.json
+
+   在 v2rayN.Handler.V2rayHandler.V2rayStart()
+
+ 
+--------------------------------Error setting options: 87 参数错误。
+
+
+[15:19:58]--------------------------------
+System.Exception: Error setting options: 87 参数错误。
+
+
+
+   在 v2rayN.HttpProxyHandler.SysProxyHandle.ExecSysproxy(String arguments)
+   在 v2rayN.HttpProxyHandler.HttpProxyHandle.UpdateSysProxy(Config config, Boolean forceDisable)
+
+ 
+--------------------------------[15:20:05]--------------------------------
+System.Exception
+   在 v2rayN.Handler.V2rayHandler.V2rayStartNew(String configStr)
+
+ 
+--------------------------------[15:20:10]--------------------------------
+System.Exception
+   在 v2rayN.Handler.V2rayHandler.V2rayStartNew(String configStr)
+
+ 
+--------------------------------远程服务器返回错误: (503) 服务器不可用。[15:20:17]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (503) 服务器不可用。
+   在 v2rayN.Handler.DownloadHandle.ws_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)
+
+ 
+--------------------------------[15:20:21]--------------------------------
+System.Exception
+   在 v2rayN.Handler.V2rayHandler.V2rayStartNew(String configStr)
+
+ 
+--------------------------------进程已退出，因此无法获得所请求的信息。[15:20:37]--------------------------------
+System.InvalidOperationException: 进程已退出，因此无法获得所请求的信息。
+   在 System.Diagnostics.Process.EnsureState(State state)
+   在 System.Diagnostics.Process.get_MainWindowHandle()
+   在 System.Diagnostics.Process.CloseMainWindow()
+   在 v2rayN.Handler.V2rayHandler.KillProcess(Process p)
+
+ 

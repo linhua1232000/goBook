@@ -48,7 +48,7 @@
     },
     {
       "tag": "api",
-      "port": 52410,
+      "port": 50277,
       "listen": "127.0.0.1",
       "protocol": "dokodemo-door",
       "settings": {
@@ -61,25 +61,31 @@
   "outbounds": [
     {
       "tag": "proxy",
-      "protocol": "trojan",
+      "protocol": "vmess",
       "settings": {
-        "servers": [
+        "vnext": [
           {
-            "address": "azhk.pluscloud.top",
-            "method": "chacha20",
-            "ota": false,
-            "password": "b231bb88-b550-4a6d-b36e-41a3d5b50419",
-            "port": 443,
-            "level": 1
+            "address": "v10.ssrsub.com",
+            "port": 166,
+            "users": [
+              {
+                "id": "739e53db-d41c-4bad-a61d-6cd5a173f85b",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto"
+              }
+            ]
           }
         ]
       },
       "streamSettings": {
-        "network": "tcp",
+        "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "allowInsecure": false,
-          "serverName": "azhk.pluscloud.top"
+          "allowInsecure": false
+        },
+        "wsSettings": {
+          "path": "/ssrsub"
         }
       },
       "mux": {

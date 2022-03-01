@@ -17,12 +17,18 @@
 - One Click
   - [ProxySU](https://github.com/proxysu/ProxySU)
   - [v2ray-agent](https://github.com/mack-a/v2ray-agent)
+  - [Xray-yes](https://github.com/jiuqi9997/Xray-yes)
+  - [Xray_onekey](https://github.com/wulabing/Xray_onekey)
 - Magisk
   - [Xray4Magisk](https://github.com/CerteKim/Xray4Magisk)
   - [Xray_For_Magisk](https://github.com/E7KMbb/Xray_For_Magisk)
 - Homebrew
-  - [Repository 0](https://github.com/N4FA/homebrew-xray)
-  - [Repository 1](https://github.com/xiruizhao/homebrew-xray)
+  - `brew install xray`
+  - [(Tap) Repository 0](https://github.com/N4FA/homebrew-xray)
+  - [(Tap) Repository 1](https://github.com/xiruizhao/homebrew-xray)
+
+## Contributing
+[Code Of Conduct](https://github.com/XTLS/Xray-core/blob/main/CODE_OF_CONDUCT.md)
 
 ## Usage
 
@@ -34,14 +40,19 @@
   - [PassWall](https://github.com/xiaorouji/openwrt-passwall)
   - [Hello World](https://github.com/jerrykuku/luci-app-vssr)
   - [ShadowSocksR Plus+](https://github.com/fw876/helloworld)
+  - [luci-app-xray](https://github.com/yichya/luci-app-xray) ([openwrt-xray](https://github.com/yichya/openwrt-xray))
 - Windows
   - [v2rayN](https://github.com/2dust/v2rayN)
-  - [Qv2ray](https://github.com/Qv2ray/Qv2ray)
+  - [Qv2ray](https://github.com/Qv2ray/Qv2ray)  (This project had been archived and currently inactive)
+  - [Netch (NetFilter & TUN/TAP)](https://github.com/NetchX/Netch)
 - Android
   - [v2rayNG](https://github.com/2dust/v2rayNG)
+  - [AnXray](https://github.com/XTLS/AnXray)
   - [Kitsunebi](https://github.com/rurirei/Kitsunebi/tree/release_xtls)
-- iOS / Mac
+- iOS & macOS (with M1 chip)
   - [Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+- macOS (Intel chip & M1 chip)
+  - [Qv2ray](https://github.com/Qv2ray/Qv2ray) (This project had been archived and currently inactive)
 
 ## Credits
 
@@ -63,13 +74,13 @@ This repo relies on the following third-party projects:
 
 ### Windows
 
-```
+```bash
 go build -o xray.exe -trimpath -ldflags "-s -w -buildid=" ./main
 ```
 
 ### Linux / macOS
 
-```
+```bash
 go build -o xray -trimpath -ldflags "-s -w -buildid=" ./main
 ```
 

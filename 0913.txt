@@ -10,3 +10,5 @@ git add readme.txt
 git commit -m "wrote a readme file"
 
 0915
+clash.net
+https://github.com/ClashDotNetFramework/experimental-clash/releases/download/v1.7.6/clash-windows-amd64-v1.7.6.zip
