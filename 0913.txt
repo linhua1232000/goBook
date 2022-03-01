@@ -12,3 +12,5 @@ git commit -m "wrote a readme file"
 0915
 clash.net
 https://github.com/ClashDotNetFramework/experimental-clash/releases/download/v1.7.6/clash-windows-amd64-v1.7.6.zip
+
+https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.10/Clash.for.Windows.Setup.0.19.10.exe
