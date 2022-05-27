@@ -48,7 +48,7 @@
     },
     {
       "tag": "api",
-      "port": 50277,
+      "port": 50982,
       "listen": "127.0.0.1",
       "protocol": "dokodemo-door",
       "settings": {
@@ -65,11 +65,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "v10.ssrsub.com",
-            "port": 166,
+            "address": "cloudflare.a-yu.xyz",
+            "port": 443,
             "users": [
               {
-                "id": "739e53db-d41c-4bad-a61d-6cd5a173f85b",
+                "id": "a8910831-f56b-4ac4-c68f-e4dd83f71e60",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto"
@@ -82,15 +82,19 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "allowInsecure": false
+          "allowInsecure": false,
+          "serverName": "zero2.a-yu.xyz"
         },
         "wsSettings": {
-          "path": "/ssrsub"
+          "path": "/sakura/",
+          "headers": {
+            "Host": "zero2.a-yu.xyz"
+          }
         }
       },
       "mux": {
-        "enabled": false,
-        "concurrency": -1
+        "enabled": true,
+        "concurrency": 8
       }
     },
     {
@@ -129,8 +133,9 @@
       {
         "type": "field",
         "outboundTag": "direct",
-        "protocol": [
-          "bittorrent"
+        "domain": [
+          "domain:example-example.com",
+          "domain:example-example2.com"
         ]
       },
       {
@@ -142,24 +147,23 @@
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "outboundTag": "direct",
         "domain": [
-          "geosite:gfw",
-          "geosite:greatfire",
-          "geosite:tld-!cn"
+          "geosite:cn"
         ]
       },
       {
         "type": "field",
-        "outboundTag": "proxy",
+        "outboundTag": "direct",
         "ip": [
-          "geoip:telegram"
+          "geoip:private",
+          "geoip:cn"
         ]
       },
       {
         "type": "field",
         "port": "0-65535",
-        "outboundTag": "direct"
+        "outboundTag": "proxy"
       }
     ]
   }
