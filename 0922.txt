@@ -8,7 +8,7 @@ https://fastly.jsdelivr.net/gh/alanbobs999/TopFreeProxies@master/Eternity.yml
 
 
 
-3：
+3：clash1
 
 https://github.com/pojiezhiyuanjun/freev2/blob/master/0527clash.yml
 
@@ -21,8 +21,29 @@ https://raw.githubusercontent.com/colatiger/v2ray-nodes/master/clash.yaml
 
 https://raw.githubusercontent.com/yu-steven/openit/main/Clash.yaml
 
-6：
+6：4clash
 
 https://raw.githubusercontent.com/chfchf0306/clash/main/clash
 
 7：
+
+0:配置1
+
+https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/update/provider/config.yml
+
+0:配置2
+
+https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/update/provider/eternity-global.yml
+
+
+https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/update/provider/provider-all.yml
+
+
+https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/update/provider/provider-hk.yml
+
+
+https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/update/provider/provider-others.yml
+
+https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/update/provider/provider-sg.yml
+
+https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/update/provider/provider-us.yml
