@@ -3,7 +3,7 @@
 骗子：278.1拐点，估计
 
 
-1\
+1\不好用
 apt update -y  && apt install -y curl  bash
 
 bash <(curl -sL kejilion.sh)
