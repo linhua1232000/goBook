@@ -7,11 +7,12 @@
 apt update -y  && apt install -y curl  bash
 
 bash <(curl -sL kejilion.sh)
-2、
+2、ss点
     https://colab.research.google.com/     (谷歌colab) 
 
-运行时在代码前面加一行 ：!pip install pyaes
+运行时行 ：
 
+!pip install pyaes
 import requests
 import base64
 import json
@@ -75,3 +76,6 @@ if j.status_code == 200:
         q = base64.b64encode(p.encode('utf-8')).decode('utf-8')
         r = f"ss://{q}#{o['title']}"
         print(r)
+
+
+3、
